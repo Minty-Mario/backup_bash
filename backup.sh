@@ -1,4 +1,4 @@
-#Making Variables
+#Defining Variables
 NOW=$(date +"%M_%d_%m_%Y")
 FTP_HOST="HOST"
 USERNAME="USERNAME"
